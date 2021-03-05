@@ -16,6 +16,12 @@ php YT.php
 
 Kemudian Masukan Url Yang Ingin Kalian Download
 
+Masukan Nama Lagu Jangan Makai Spasi Ya
+
+Contoh = Hasil.mp3
+
+Contoh = Hasil_Lagu.mp3
+
 
 # Hasil
 ![HASIL](.yt/Screenshot_20210305_124208.jpg)
