@@ -1,6 +1,6 @@
 # My Social Media
 
-[FOLLOW ME ON FACEBPOK](https://www.facebook.com/meilin.meza)
+[FOLLOW ME ON FACEBOOK](https://www.facebook.com/meilin.meza)
 
 
 # Tutor Install
