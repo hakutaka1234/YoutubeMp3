@@ -74,10 +74,11 @@ $GET_DW=(POST($bu, $dty));
 if($GET_DW==true){
 $Gua=json_decode($GET_DW);
 $Dlink=$Gua->dlink;
+include("src.php");
 echo "\n Sedang Mendownload...
  ";
-system("curl -s -o Hasil.mp4 ".$Dlink."");
-if(file_exists("Hasil.mp4")){
+system("curl -s -o ".$MEKISOURCE." ".$Dlink."");
+if(file_exists("$MEKISOURCE")){
 system("mv Hasil.mp4 /sdcard");
 echo "Sukses... File Sudah Di Pindahkan Ke Memori Anda\nDengan Nama Hasil.mp4";
 }
@@ -93,10 +94,11 @@ $GET_DW=(POST($bu, $dty));
 if($GET_DW==true){
 $Gua=json_decode($GET_DW);
 $Dlink=$Gua->dlink;
+include("src.php");
 echo "\n Sedang Mendownload...
  ";
-system("curl -s -o Hasil.mp4 ".$Dlink."");
-if(file_exists("Hasil.mp4")){
+system("curl -s -o ".$MEKISOURCE." ".$Dlink."");
+if(file_exists("$MEKISOURCE")){
 system("mv Hasil.mp4 /sdcard");
 echo "Sukses... File Sudah Di Pindahkan Ke Memori Anda\nDengan Nama Hasil.mp4";
 }
@@ -114,10 +116,11 @@ $GET_DW=(POST($bu, $dty));
 if($GET_DW==true){
 $Gua=json_decode($GET_DW);
 $Dlink=$Gua->dlink;
+include("src.php");
 echo "\n Sedang Mendownload...
  ";
-system("curl -s -o Hasil.mp4 ".$Dlink."");
-if(file_exists("Hasil.mp4")){
+system("curl -s -o ".$MEKISOURCE." ".$Dlink."");
+if(file_exists("$MEKISOURCE")){
 system("mv Hasil.mp4 /sdcard");
 echo "Sukses... File Sudah Di Pindahkan Ke Memori Anda\nDengan Nama Hasil.mp4";
 }
@@ -133,10 +136,11 @@ $GET_DW=(POST($bu, $dty));
 if($GET_DW==true){
 $Gua=json_decode($GET_DW);
 $Dlink=$Gua->dlink;
+include("src.php");
 echo "\n Sedang Mendownload...
  ";
-system("curl -s -o Hasil.mp4 ".$Dlink."");
-if(file_exists("Hasil.mp4")){
+system("curl -s -o ".$MEKISOURCE." ".$Dlink."");
+if(file_exists("$MEKISOURCE")){
 system("mv Hasil.mp4 /sdcard");
 echo "Sukses... File Sudah Di Pindahkan Ke Memori Anda\nDengan Nama Hasil.mp4";
 }
@@ -152,10 +156,11 @@ $GET_DW=(POST($bu, $dty));
 if($GET_DW==true){
 $Gua=json_decode($GET_DW);
 $Dlink=$Gua->dlink;
+include("src.php");
 echo "\n Sedang Mendownload...
  ";
-system("curl -s -o Hasil.mp4 ".$Dlink."");
-if(file_exists("Hasil.mp4")){
+system("curl -s -o ".$MEKISOURCE." ".$Dlink."");
+if(file_exists("$MEKISOURCE")){
 system("mv Hasil.mp4 /sdcard");
 echo "Sukses... File Sudah Di Pindahkan Ke Memori Anda\nDengan Nama Hasil.mp4";
 }
@@ -175,7 +180,7 @@ include("src.php");
 echo "\n Sedang Mendownload...
  ";
 system("curl -s -o ".$MEKISOURCE." ".$Dlink."");
-if(file_exists("."$MEKISOURCE."")){
+if(file_exists("$MEKISOURCE")){
 system("mv ".$MEKISOURCE." /sdcard");
 echo "Sukses... File Sudah Di Pindahkan Ke Memori Anda\nDengan Nama ".$MEKISOURCE;
 }
