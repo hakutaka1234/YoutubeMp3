@@ -26,7 +26,9 @@ Contoh = Hasil_Lagu.mp3
 
 
 # Hasil Mp4
-![HASIL](.yt/IMG_20210306_013034.JPG)
+![HASIL](.yt/SS2.JPG)
+
+[HASIL](.yt/SS1.jpg)
 
 # Hasil Mp3
 ![HASIL](.yt/Screenshot_20210305_124208.jpg)
