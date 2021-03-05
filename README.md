@@ -18,5 +18,5 @@ Kemudian Masukan Url Yang Ingin Kalian Download
 
 
 # Hasil
-![HASIL](Screenshot_20210305_124208.jpg)
+![HASIL](.yt/Screenshot_20210305_124208.jpg)
 
