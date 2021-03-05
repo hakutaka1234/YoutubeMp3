@@ -1,5 +1,7 @@
 # Tutor Install
 
+termux-setup-storage
+
 pkg update -y
 
 pkg install curl -y
