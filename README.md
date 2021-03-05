@@ -1,7 +1,6 @@
 # My Social Media
 
-![LOGO](https://user-images.githubusercontent.com/63560321/110162455-592bdf00-7e21-11eb-9b98-fd0606b94f21.jpg)
-[](https://www.facebook.com/meilin.meza)
+[FOLLOW ME ON FACEBPOK](https://www.facebook.com/meilin.meza)
 
 
 # Tutor Install
