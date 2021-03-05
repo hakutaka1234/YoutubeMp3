@@ -8,7 +8,7 @@ pkg install git -y
 
 pkg install php -y
 
-git clone htpps://github.com/hakutaka1234/Youtubemp3
+git clone htpps://github.com/hakutaka1234/YoutubeMp3
 
 cd Youtubemp3
 
